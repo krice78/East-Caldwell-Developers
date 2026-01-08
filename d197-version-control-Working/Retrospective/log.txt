@@ -1,0 +1,79 @@
+commit 523ff2289b3b8586c14546dfe84bc1620819f257
+Author: kecia <krice78@wgu.edu>
+Date:   Thu Jan 11 17:02:55 2024 -0500
+
+    updated summary information in summary.txt
+
+commit 432304f5b3e8b34683bdd450faa676246b2e7af0
+Author: kecia <krice78@wgu.edu>
+Date:   Thu Jan 11 16:58:41 2024 -0500
+
+    Moved Retrospective directory from js to Main folder for easier viewing
+
+commit d4649e02648c46b8cfec2134712173a970b3ad66
+Merge: e73b4b0 011c633
+Author: kecia <krice78@wgu.edu>
+Date:   Thu Jan 11 16:41:50 2024 -0500
+
+    Merge branch 'Test' into Working
+
+commit e73b4b0d7df3490309b1ae51531939aa3b5273c7
+Author: kecia <krice78@wgu.edu>
+Date:   Thu Jan 11 15:34:11 2024 -0500
+
+    created retrospective directory and the 2 txt files called log and summary
+
+commit 011c6330423a9e23ea7deaef26de9c937151de6e
+Merge: 0221eb6 6450b57
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 17:17:13 2024 -0500
+
+    merged changes in README.md file between Test and Working branch
+
+commit 6450b571ce98430ff83d7b3f78d3841bcb6fa51b
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 17:03:52 2024 -0500
+
+    added version number to line 1 of README.md
+
+commit 0221eb6c368ed09ac691fca046961bbb4f597c1a
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 16:55:55 2024 -0500
+
+    added student id to line 1 in readme.md
+
+commit 938e80e474e819635dcdecc0615cbb48d9d7d4b1
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 16:38:45 2024 -0500
+
+    on line 17, added html to make Western Tech Hub bold
+
+commit d0863a3fe4b41d055ff1fb85c8a595cf7dd63280
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 16:37:09 2024 -0500
+
+    edited line 13 in customers.html to change background color
+
+commit 5116825775262957cd3a3007ee04e301245cd18c
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 16:35:23 2024 -0500
+
+    edited line 13 in contact.html to change background color
+
+commit 34c29e8a8d5573f0962f92c9b57b230c56ea0916
+Author: kecia <krice78@wgu.edu>
+Date:   Tue Jan 9 15:05:09 2024 -0500
+
+    edited line 13 in about.html to change the background color of the about page
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

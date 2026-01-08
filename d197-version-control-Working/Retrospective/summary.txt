@@ -1,0 +1,7 @@
+E1 - fixed merge conflict by editing the README files to adjust for differences when trying to merge Test Branch into Working Branch
+
+The changes made in C1 were the following:
+-edited line 13 in about.html to change the background color to a light gray on the about page.
+-edited line 13 in contact.html to change the background color to a light gray on the contact page.
+-edited line 13 in customers.html to change the background color to a light gray on the customers page.
+-edited line 17 in customers.html to add bold syntax to the title "Western Tech Hub"
